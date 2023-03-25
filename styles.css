@@ -1,0 +1,30 @@
+body {
+  background-color: hsl(212, 45%, 89%);
+}
+
+.card {
+  margin: 10% auto 1%;
+  text-align: center;
+  padding: 15px;
+  border-radius: 1.25em;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+}
+
+.text-1 {
+  color: hsl(218, 44%, 22%);
+  font-weight: bold;
+  font-size: 115%;
+}
+
+.text-2 {
+  color: hsl(220, 15%, 55%);
+  font-size: 90%;
+}
+.card-img-top {
+  border-radius: 1.25em;
+}
+
+.attribution {
+  text-align: center;
+  padding-top: 10%;
+}
